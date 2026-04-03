@@ -2,6 +2,21 @@
 
 ---
 
+## 📌 Executive Summary
+
+This project analyzes customer transaction data to identify churn patterns and improve retention using RFM segmentation.
+
+Key findings:
+- ~33.4% of customers are at risk of churn, indicating a significant retention challenge
+- High-value churn customers contribute disproportionately to revenue loss
+- Customers with low engagement (high recency, low frequency) are the most vulnerable
+
+Business impact:
+- Identifying at-risk customers enables targeted retention strategies
+- Reducing churn can significantly increase customer lifetime value and revenue stability
+
+---
+
 ## 💼 Business Problem
 
 Businesses often struggle to identify customers who are likely to churn, leading to significant revenue loss.
@@ -199,10 +214,11 @@ This project demonstrates how customer segmentation using RFM analysis can help 
 
 ---
 
-## 🔮 Future Improvements
+## 🚀 Future Enhancements
 
-* Build a machine learning model for churn prediction
-* Deploy dashboard using a web application
-* Automate data pipeline
+- Develop a machine learning model to predict churn probability at the individual customer level
+- Implement real-time dashboards for continuous monitoring of churn risk
+- Integrate customer feedback and behavioral data for deeper analysis
+- Build automated retention campaigns based on customer segments
 
 ---
