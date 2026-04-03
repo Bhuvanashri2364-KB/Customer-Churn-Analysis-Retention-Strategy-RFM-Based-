@@ -126,9 +126,7 @@ The RFM scatter plot helps identify clusters of high-value and at-risk customers
 
 ![Average Order Value](images/sql_avg_order.png)
 
-Insight:
-SQL analysis validates key findings by identifying top revenue-generating customers, regional performance differences, and average order value trends, supporting data-driven decision-making.
-
+Insight: SQL analysis reinforces key findings by identifying top revenue-generating customers, regional performance trends, and customer-level purchase behavior.
 ---
 
 ## 🎯 Key Insights
