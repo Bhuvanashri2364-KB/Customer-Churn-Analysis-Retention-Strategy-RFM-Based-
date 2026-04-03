@@ -13,8 +13,7 @@ This project identifies customer churn risk and revenue loss patterns using tran
 
 Key findings:
 
-**Churn Rate: ~33.4%**
-• ~33.4% of customers are at risk of churn, indicating a major retention challenge  
+• **Churn Rate: ~33.4%** of customers are at risk of churn, indicating a major retention challenge  
 • High-value churn customers contribute disproportionately to revenue loss  
 • A significant portion of revenue is concentrated among a small group of active customers  
 • Customers with low engagement (high recency, low frequency) are the most vulnerable  
