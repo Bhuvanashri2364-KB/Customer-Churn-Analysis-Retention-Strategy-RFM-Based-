@@ -9,10 +9,11 @@
 
 ## 📌 Executive Summary
 
-This project focuses on identifying customer churn risk and revenue loss using transactional data and RFM segmentation to drive retention strategies.
+This project identifies customer churn risk and revenue loss patterns using transactional data and RFM segmentation to drive actionable retention strategies.
 
 Key findings:
 
+**Churn Rate: ~33.4%**
 • ~33.4% of customers are at risk of churn, indicating a major retention challenge  
 • High-value churn customers contribute disproportionately to revenue loss  
 • A significant portion of revenue is concentrated among a small group of active customers  
