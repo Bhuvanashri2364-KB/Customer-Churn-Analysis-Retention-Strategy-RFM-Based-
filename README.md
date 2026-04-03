@@ -71,11 +71,11 @@ Key visuals include:
 
 ## 🎯 Key Insights
 
-* Overall churn rate is ~33%, indicating significant retention challenges
-* High-value customers contribute a large portion of revenue but show early signs of churn
-* Customers with low recency and frequency are more likely to churn
-* Repeat purchase behavior strongly correlates with customer retention
-* Certain customer segments show declining engagement before churn, indicating early warning signals
+- High churn rate (~33%) indicates significant revenue leakage and urgent need for retention strategies  
+- High-value customers contribute the majority of revenue but show early signs of disengagement, posing a major business risk  
+- Customers with low purchase frequency and long inactivity periods are the most likely to churn  
+- Repeat purchase behavior is strongly correlated with retention, making it a key metric for engagement strategies  
+- Certain customer segments exhibit declining engagement patterns before churn, enabling early intervention opportunities  
 
 ---
 
@@ -88,13 +88,13 @@ Key visuals include:
 
 ---
 
-## 🧠 Recommendations
+## 💡 Recommendations
 
-* Retain high-value customers through personalized offers and loyalty programs
-* Target at-risk customers with re-engagement campaigns
-* Improve retention by increasing engagement for low-frequency users
-* Focus marketing efforts on high lifetime value segments
-* Implement early warning systems using RFM-based segmentation
+- Prioritize retention of high-value customers through personalized offers and loyalty programs  
+- Target at-risk customers using re-engagement campaigns (email, discounts, reminders)  
+- Increase purchase frequency with subscription models or repeat incentives  
+- Focus marketing efforts on high lifetime value (LTV) segments instead of low-value users  
+- Implement early warning systems using RFM segmentation to detect churn risk proactively  
 
 ---
 
