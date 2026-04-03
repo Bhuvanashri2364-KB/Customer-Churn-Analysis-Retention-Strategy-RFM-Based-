@@ -50,7 +50,7 @@ This approach reflects real-world business scenarios where inactivity signals po
 
 ---
 
-## 🔄 Project Workflow
+## 🔄 Methodology
 
 1. Data Cleaning using **Python (Pandas)**
 2. SQL Analysis for business insights
@@ -142,7 +142,7 @@ customer-churn-analysis/
 
 ---
 
-## ⚠️ Churn Analysis
+## ⚠️ Churn Analysis & Behavior Patterns
 
 ![Churn Distribution](images/churn_distribution.png)
 
