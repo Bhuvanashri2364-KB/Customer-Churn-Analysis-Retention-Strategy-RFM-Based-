@@ -2,16 +2,26 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+![Customer Segmentation](images/customer_segmentation.png)
+
+---
+
 ## 📌 Executive Summary
 
-This project analyzes customer transaction data to identify churn patterns and improve retention using RFM segmentation.
+This project focuses on identifying customer churn risk and revenue loss using transactional data and RFM segmentation to drive retention strategies.
 
 Key findings:
-- ~33.4% of customers are at risk of churn, indicating a significant retention challenge
-- High-value churn customers contribute disproportionately to revenue loss
-- Customers with low engagement (high recency, low frequency) are the most vulnerable
+
+• ~33.4% of customers are at risk of churn, indicating a major retention challenge  
+• High-value churn customers contribute disproportionately to revenue loss  
+• A significant portion of revenue is concentrated among a small group of active customers  
+• Customers with low engagement (high recency, low frequency) are the most vulnerable  
 
 Business impact:
+
 - Identifying at-risk customers enables targeted retention strategies
 - Reducing churn can significantly increase customer lifetime value and revenue stability
 
@@ -34,6 +44,8 @@ This project analyzes customer transaction data to:
 This is an end-to-end customer churn analysis project using **Python, SQL, and Power BI**.
 
 The project focuses on understanding customer behavior using **RFM (Recency, Frequency, Monetary)** analysis and segmenting customers based on their engagement and value.
+
+RFM analysis was used because it provides a simple yet effective way to quantify customer engagement and identify churn risk based on purchasing behavior.
 
 ---
 
@@ -73,9 +85,9 @@ This approach reflects real-world business scenarios where inactivity signals po
 
 ## 🛠️ Tools & Technologies
 
-* **Python** (Pandas, Matplotlib)
-* **SQL** (SQLite)
-* **Power BI**
+• Python (Pandas for data cleaning, Matplotlib for visualization)  
+• SQL (aggregations, joins, customer-level analysis)  
+• Power BI (interactive dashboards, KPI tracking, segmentation visualization)
 
 ---
 
@@ -171,6 +183,14 @@ customer-churn-analysis/
 - Customers with high recency (inactive for long periods) and low purchase frequency are at the highest risk of churn.
 - Active customers generate the highest revenue, highlighting the importance of maintaining engagement.
 - A large portion of customers fall into low-frequency segments, indicating potential for upselling and engagement campaigns.
+
+---
+
+## 💡 Business Impact
+
+• Enables targeted retention campaigns for high-risk customers  
+• Helps reduce revenue loss from churn  
+• Improves customer lifetime value through segmentation-based strategies  
 
 ---
 
