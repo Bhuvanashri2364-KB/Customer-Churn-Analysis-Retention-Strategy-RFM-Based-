@@ -76,6 +76,48 @@ Key visuals include:
 - Revenue by Segment → Understand business impact of each segment
 - Behavioral Trends → Detect patterns leading to churn
 
+## 📌 Customer Segmentation
+
+![Customer Segmentation](images/customer_segmentation.png)
+
+---
+
+## 📈 Revenue Analysis
+
+![Revenue by Segment](images/revenue_by_segment.png)
+
+![Average Revenue by Segment](images/avg_revenue_by_segment.png)
+
+---
+
+## 👥 Customer Distribution
+
+![Customer Distribution](images/customer_distribution.png)
+
+---
+
+## ⚠️ Churn Analysis & Behavior Patterns
+
+![Churn Distribution](images/churn_distribution.png)
+
+---
+
+## 🔍 RFM Analysis
+
+![RFM Scatter](images/rfm_scatter.png)
+
+---
+
+## 🧾 SQL Analysis
+
+![Top Customers](images/sql_top_customers.png)
+
+![Revenue by Country](images/sql_revenue_country.png)
+
+![Average Order Value](images/sql_avg_order.png)
+
+---
+
 ---
 
 ## 🎯 Key Insights
